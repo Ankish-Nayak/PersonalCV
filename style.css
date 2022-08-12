@@ -1,0 +1,10 @@
+.header img {
+    float: left;  
+    padding: 10px 50px 10px 10px;
+}
+.header h1{
+    text-align: center;
+} 
+.skillsAndInterests td {
+    padding: 10px;
+}
